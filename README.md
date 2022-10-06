@@ -1,5 +1,6 @@
 # cpnt201-a3
 
-## Conflicting merge
+## Merge conflict
+
 Eli Ewa
 Ebrahim ladhi

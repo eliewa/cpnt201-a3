@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 I see seashells 
+=======
+>>>>>>> 5b54f70c1db3f877b2109481b378947a22c7c1dc
 I see jellyfish in water nearby.
 I really dont wanna be swallowed b a shark.
 I see beautiful sunny bright day.
